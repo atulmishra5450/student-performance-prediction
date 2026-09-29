@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 ipykernel
+fastapi
+uvicorn
+jinja2
+python-multipart
